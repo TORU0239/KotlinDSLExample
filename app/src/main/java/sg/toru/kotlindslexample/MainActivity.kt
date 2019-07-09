@@ -33,9 +33,5 @@ class MainActivity : AppCompatActivity() {
                 postalCode = "123456"
             }
         }
-
-        test
     }
-
-    private lateinit var test:Person.()->Unit
 }
